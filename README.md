@@ -16,4 +16,4 @@ Discord: flawsly#9621
 
 ----
 
-İnecek zip dosyasının içindeki rarı açarak ses dosyasını resources kısmına atabilirsiniz.
+İnecek dosyanın içindeki klasördeki scriptleri resources kısmına atıp yukarıda verilen start komutlarıyla refresh yaptıktan sonra çalıştırabilirsiniz.
